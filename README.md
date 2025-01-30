@@ -8,6 +8,7 @@ I'm an enthusiastic software developer with a diverse skill set and a knack for 
 ## 🚀 Expertise
 
 - **Android Development:** Crafting dynamic and user-friendly mobile experiences.
+- **React Native** Building cross platform mobile application.
 - **Java Backend:** Building robust and scalable server-side applications.
 - **Javafx Desktop Development:** Creating engaging desktop applications with JavaFX.
 - **Kotlin Jetpack Compose:** Exploring the future of Android UI with modern Kotlin.
@@ -42,6 +43,7 @@ Stay tuned for updates on these exciting projects! 🚀
 - Kotlin Jetpack Compose for multiplatform
 - Microservice with springboot
 - Next.js for web development
+- React Native (Cross Platform)
 
 
 ## 💬 Ask me about ...
